@@ -25,7 +25,7 @@ class Projects extends React.Component{
           <li className="cell"><i className="fab fa-css3-alt fa-2x"></i></li>
           </ul>
           <a href="http://bit.ly/rf-project-1" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="http://bit.ly/rf-project-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="https://github.com/Fletch-7/SEI-Project-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>My first project after three weeks to make a game over a two-week period, using HTML, CSS and JavaScript fundamentals. The project included a variety of JavaScript functions that enabled smooth gameplay and transitioning throughout.</p>
@@ -48,7 +48,7 @@ class Projects extends React.Component{
           <li className="cell"> <i className="fab fa-react fa-2x"></i></li>
           </ul>
           <a href="http://bit.ly/heroku-hero" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="http://bit.ly/rf-project-2" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="https://github.com/Fletch-7/SEI-PROJECT-2" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>The second project was to pull an API database and create a front end to display it using React.js. My teammate and I opted for a superhero API, where we created a game similar to Top-Trumps. We used a variety of JavaScript functions to make the website interactive for the user. Designwise, we opted to use Bulma in conjunction with a variety of graphics to improve the aesthetic of the website.</p>
@@ -75,7 +75,7 @@ class Projects extends React.Component{
           <li className="cell"><i className="devicon-mongodb-plain"></i></li>
           </ul>
           <a href="http://bit.ly/rf-project-3" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="http://bit.ly/geocachr " className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="https://github.com/Fletch-7/sei-group-project " className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p> My third project was with a team of four to create a fully functional front and back-end website using Express, React.js and MongoDB. Our team created a geo-caching game where users could make accounts and take part in treasure hunts based around London and comment, create, and edit trails in their accounts as well as comment on other users. My role was to work on the front end using React.js and applying the necessary API’s.</p>
@@ -102,7 +102,7 @@ class Projects extends React.Component{
           <li className="cell"> <i className="django"><img src="https://d7umqicpi7263.cloudfront.net/img/product/003313e7-e97b-4a5d-860a-f1a435a41174/b4b17d38-d65c-4b5f-9241-94104beb9a88.png" alt="Django"/></i></li>
           </ul>
           <a href="http://bit.ly/heroku-pensive " className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="http://bit.ly/ppensive" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="https://github.com/Fletch-7/sei-final-project/tree/Fletch-7-patch-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>My fourth and final project involved creating a blog platform using a mixture of Python, PostgreSQL and Django. The platform includes main features such as profiles, trending topics and articles created by software developers and coding enthusiasts. My role was using MongoDB, Python and PostgreSQL to create CRUD processes and authentication on the back end. I also worked on the JavaScript in React to improve the functionality on the front end.</p>
