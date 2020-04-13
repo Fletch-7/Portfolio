@@ -12,6 +12,7 @@
   height: 100vh;
   width: 100vw;
   display: block;
+  flex-shrink: 1; 
   .title{
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
@@ -84,12 +85,12 @@ padding: 0 15px;
   margin: 20px;
 }
 
-#Software > div > ul > li:nth-child(6) > i > img{
+#skills > div > ul > li:nth-child(6) > i > img{
   width: 20px;
   height: 20px;
 }
 
-#Software > div > ul > li:nth-child(16) > span{
+#skills > div > ul > li:nth-child(16) > span{
   font-size: 17px;
 }
 
@@ -138,10 +139,14 @@ padding: 0 15px;
   display: flex;
   flex-direction: row;
 }
-
+#projects > div > div > div.image{
+  display: flex;
+  justify-content: center;
+}
 #projects img{
-  width:600px;
-  height:350px; 
+  width:800px;
+  height:400px; 
+  text-align: center;
   margin-bottom: 60px;
 }
 
@@ -229,9 +234,22 @@ justify-content: space-evenly;
   height: 350px;
   background-color: white;
 }
-.email{
-  border: 1px solid rgba(0,0,0,.125);
-  border-radius: 5%;
+
+#contact > div{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  a > span{
+    padding: 10px;
+  }
+  a{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
+
+
+
 
 

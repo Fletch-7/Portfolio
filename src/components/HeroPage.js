@@ -29,6 +29,6 @@ class HeroPage extends React.Component {
       </section>
     )
   }
-  }
+}
 
-export default HeroPage
+    export default HeroPage

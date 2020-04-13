@@ -4,7 +4,7 @@ class Software extends React.Component{
 
 render() {
   return (
-<section className="Section" id="Software"> 
+<section className="Section" id="skills"> 
   <div className="container-software">
   <ul className="software-icons">
     <li className="cell"> 
