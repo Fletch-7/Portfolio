@@ -28,7 +28,7 @@ class Projects extends React.Component{
           <a href="https://github.com/Fletch-7/SEI-Project-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
-          <p>My first project after three weeks to make a game over a two-week period, using HTML, CSS and JavaScript fundamentals. The project included a variety of JavaScript functions that enabled smooth gameplay and transitioning throughout.</p>
+          <p>My first project after three weeks to make a game over a two-week period, using HTML, CSS and JavaScript fundamentals. I decided to make snake I, as it was something I always used to play as a kid. Over the two weeks, the first week was spent planning how the game would work, whilst the second week was left to implementing pseudocode to actual code. The project included a variety of JavaScript functions that enabled smooth gameplay and transitioning throughout.</p>
         </div>
         </div>
       </div>
@@ -51,7 +51,7 @@ class Projects extends React.Component{
           <a href="https://github.com/Fletch-7/SEI-PROJECT-2" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
-          <p>The second project was to pull an API database and create a front end to display it using React.js. My teammate and I opted for a superhero API, where we created a game similar to Top-Trumps. We used a variety of JavaScript functions to make the website interactive for the user. Designwise, we opted to use Bulma in conjunction with a variety of graphics to improve the aesthetic of the website.</p>
+          <p>The second project was to pull a third-party API database and create a front end to display it using React.js. My teammate and I opted for a superhero API, where we created a game similar to Top-Trumps. We used a variety of JavaScript functions to make the website interactive for the user. Designwise, we opted to use Bulma in conjunction with a variety of graphics to improve the aesthetic of the website.</p>
         </div>
         </div>
       </div>
