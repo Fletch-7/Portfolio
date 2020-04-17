@@ -8,7 +8,7 @@ class Projects extends React.Component{
   render() {
     return (
       <section className="Section" id="projects">
-        <h1 className="title">Projects</h1>
+        <h1 className="title" id="p-title">Projects</h1>
         <div className="projects">
         {/* Snake */}
       <div className="container-p">

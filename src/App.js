@@ -14,8 +14,11 @@ import Contact from './components/Contact'
 
 function App() {
   return (
-    <main>
+    <>
+    <header>
       <Navbar/>
+    </header>
+    <main>
       <HeroPage/>
       <About/>
       <Software/>
@@ -24,6 +27,7 @@ function App() {
       <Experience/>
       <Contact/>
     </main>
+    </>
   
   );
 }
