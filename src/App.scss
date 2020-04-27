@@ -4,6 +4,9 @@
   margin: 0;
   font-family: 'Ubuntu', sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 main{
   padding: 1vw;
@@ -113,6 +116,7 @@ margin: 0 auto;
 .aboutme{
   display: flex;
   justify-content: center;
+  padding-bottom: 70px;
 }
 .bio{
   width: 60vw;
@@ -241,6 +245,9 @@ justify-content: space-evenly;
   a{
     margin-top: 5px;
     margin-bottom: 5px;
+  }
+  .title{
+    text-align: center;
   }
 }
 

@@ -12,7 +12,6 @@ class Projects extends React.Component{
         <div className="projects">
         {/* Snake */}
       <div className="container-p">
-      <hr/>
         <div className="image">
         <img className="project-image" src={Project1} alt="snake_game"></img>
       </div>
