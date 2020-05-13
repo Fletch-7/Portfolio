@@ -54,6 +54,10 @@ nav{
 
 #hero{
   padding-top: 50rem;
+  @media only screen and (max-width: 840px) {
+    width: 90%;
+  
+  }
 }
 .Hero{
   font-size: 36px;
