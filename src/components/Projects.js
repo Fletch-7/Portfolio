@@ -131,7 +131,7 @@ class Projects extends React.Component{
           <a href="https://fletch-7.github.io/pcos-launch/" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
         </div>
         <div className="project-description">
-          <p>This was my first freelance project after leaving General Assembly during the Covid-19 Lockdown. I was approached by a friend that wanted a simple front-end website that would allow her to demonstrate her business and story. The client wanted to keep the website as simple as possible as they wanted it to supplement their Instagram account.  Her brief also included the necessity of having a website that was mobile responsive, as 90% of her clients will view this from their mobile.</p>
+          <p>This was my first freelance project after leaving General Assembly during the Covid-19 Lockdown. I was approached by a friend that required a simple front-end website that would allow her to demonstrate her business and story. The client wanted to keep the website as simple as possible as her wanted it to supplement their Instagram account.  Her brief also included the necessity of having a website that was mobile responsive, as 90% of her clients will view this from their mobile.</p>
           <br/>
           <p>After remotely meeting  on video calls to discuss initial plans , we ended up with a simple , clean, to-the-point website that met the clients expectations. After discussing whether to add a back-end to the website to enable comments and forms, I ended up suggesting to use  Mail-chimp as this allowed the client to have control over making forms and marketing materials in the future  without any assistance. </p>
         </div>
@@ -158,9 +158,9 @@ class Projects extends React.Component{
           <a href="#" className="button" disabled alt="link"><i className="fas fa-link"></i><span>Coming Soon!</span></a>
         </div>
         <div className="project-description">
-          <p>This is my second freelance  during the Covid-19 Lockdown. I was approached by my brother that wanted a simple front-end website that would allow him to have an online prescence, as well as, offer a way to showcase his production business and past projects to potential clients.</p>
+          <p>This is my second freelance  during the Covid-19 Lockdown. I was approached by my brother who needs a simple front-end website that would allow him to have an online prescence, as well as, offer a way to showcase his production business and past projects to potential clients.</p>
           <br/>
-          <p>Currently, this project is under construction and will be uploaded as soon as the client is satisfied!</p>
+          <p>Currently, this project is under construction and will be uploaded as soon as the client is satisfied.</p>
         </div>
         </div>
       </div>
