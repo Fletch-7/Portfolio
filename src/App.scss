@@ -156,6 +156,13 @@ margin: 0 auto;
 .container-info{
   display: flex;
   flex-direction: row;
+  @media only screen and (max-width: 840px) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15px;
+  }
 }
 #projects > div > div > div.image{
   display: flex;
