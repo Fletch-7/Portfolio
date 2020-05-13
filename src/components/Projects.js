@@ -15,7 +15,7 @@ class Projects extends React.Component{
         {/* Snake */}
       <div className="container-p">
         <div className="image">
-        <img className="project-image" src={Project1} alt="snake_game"></img>
+        <img className="project-image is-hidden-mobile" src={Project1} alt="snake_game"></img>
       </div>
         <div className="container-info">
         <div className="project-info">
@@ -37,7 +37,7 @@ class Projects extends React.Component{
       <div className="container-p">
       <hr/>
         <div className="image">
-        <img className="project-image" src={Project2} alt="Hero_API"></img>
+        <img className="project-image is-hidden-mobile" src={Project2} alt="Hero_API"></img>
         </div>
         <div className="container-info">
         <div className="project-info">
@@ -60,7 +60,7 @@ class Projects extends React.Component{
       <div className="container-p">
       <hr/>
         <div className="image">
-        <img className="project-image" src={Project3} alt="Geocachr_website"></img>
+        <img className="project-image is-hidden-mobile" src={Project3} alt="Geocachr_website"></img>
         </div>
         <div className="container-info">
         <div className="project-info">
@@ -87,7 +87,7 @@ class Projects extends React.Component{
         <div className="container-p">
         <hr/>
         <div className="image">
-        <img className="project-image" src={Project4} alt="pensive_website"></img>
+        <img className="project-image is-hidden-mobile" src={Project4} alt="pensive_website"></img>
         </div>
         <div className="container-info">
         <div className="project-info">
@@ -115,7 +115,7 @@ class Projects extends React.Component{
       <div className="container-p">
       <hr/>
         <div className="image">
-        <img className="project-image" src={Project5} alt="pcos_desktop"></img>
+        <img className="project-image is-hidden-mobile" src={Project5} alt="pcos_desktop"></img>
         </div>
         <div className="container-info">
         <div className="project-info">
@@ -142,7 +142,7 @@ class Projects extends React.Component{
       <div className="container-p">
       <hr/>
         <div className="image">
-        <img className="project-image" src={Project6} alt="pcos_desktop"></img>
+        <img className="project-image is-hidden-mobile" src={Project6} alt="pcos_desktop"></img>
         </div>
         <div className="container-info">
         <div className="project-info">
