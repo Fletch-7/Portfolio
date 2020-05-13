@@ -20,7 +20,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">Snake Game</h1>
-          <ul className="icons">
+          <ul className="icons is-hidden-mobile">
           <li className="cell"> <i className="fab fa-js-square fa-2x"></i></li>
           <li className="cell"> <i className="fab fa-html5 fa-2x"></i></li>
           <li className="cell"><i className="fab fa-css3-alt fa-2x"></i></li>
@@ -42,7 +42,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">POW!</h1>
-          <ul className="icons">
+          <ul className="icons is-hidden-mobile">
           <li className="cell"> <i className="fab fa-js-square fa-2x"></i></li>
           <li className="cell"> <i className="fab fa-html5 fa-2x"></i></li>
           <li className="cell"><i className="fab fa-css3-alt fa-2x"></i></li>
@@ -65,7 +65,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">Geocachr</h1>
-          <ul className="icons" id="small">
+          <ul className="icons is-hidden-mobile" id="small">
           <li className="cell"> <i className="fab fa-js-square "></i></li>
           <li className="cell"> <i className="fab fa-html5 "></i></li>
           <li className="cell"><i className="fab fa-css3-alt "></i></li>
@@ -92,7 +92,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">Pensive</h1>
-          <ul className="icons" id="small">
+          <ul className="icons is-hidden-mobile" id="small">
           <li className="cell"> <i className="fab fa-js-square"></i></li>
           <li className="cell"> <i className="fab fa-html5"></i></li>
           <li className="cell"><i className="fab fa-css3-alt"></i></li>
@@ -120,7 +120,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">It's a PCOS party!</h1>
-          <ul className="icons">
+          <ul className="icons is-hidden-mobile">
           <li className="cell"> <i className="fab fa-js-square"></i></li>
           <li className="cell"> <i className="fab fa-html5"></i></li>
           <li className="cell"><i className="fab fa-css3-alt"></i></li>
@@ -147,7 +147,7 @@ class Projects extends React.Component{
         <div className="container-info">
         <div className="project-info">
           <h1 className="title-small">PIXL8</h1>
-          <ul className="icons">
+          <ul className="icons is-hidden-mobile">
           <li className="cell"> <i className="fab fa-js-square"></i></li>
           <li className="cell"> <i className="fab fa-html5"></i></li>
           <li className="cell"><i className="fab fa-css3-alt"></i></li>
