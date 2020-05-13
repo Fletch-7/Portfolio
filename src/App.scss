@@ -64,6 +64,16 @@ nav{
 .name{
   font-family: 'Ubuntu', sans-serif;
 }
+@media only screen and (max-width: 840px) {
+
+  h1{
+    font-size: 25px;
+  }
+  p{
+    font-size: 25px;
+  }
+
+}
 }
 
 
@@ -123,7 +133,12 @@ margin: 0 auto;
   text-align: justify;
   text-justify: inter-word;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 17px;
+  font-size: 20px;
+  @media only screen and (max-width: 840px) {
+    p{
+      font-size: 18px;
+    }
+  }
 }
 
 
@@ -142,7 +157,7 @@ margin: 0 auto;
   display: flex;
   justify-content: center;
 }
-#projects img{
+.project-image{
   width:100%;
   max-width: 400px;
   text-align: center;

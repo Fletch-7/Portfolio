@@ -3,6 +3,8 @@ import Project1 from '../assets/Snake_Game.png'
 import Project2 from '../assets/Hero_API.png'
 import Project3 from '../assets/Geocachr.png'
 import Project4 from '../assets/Pensive.png'
+import Project5 from '../assets/pcosparty.png'
+import Project6 from '../assets/underc.png'
 
 class Projects extends React.Component{
   render() {
@@ -105,6 +107,60 @@ class Projects extends React.Component{
         </div>
         <div className="project-description">
           <p>My fourth and final project involved creating a blog platform using a mixture of Python, PostgreSQL and Django. The platform includes main features such as profiles, trending topics and articles created by software developers and coding enthusiasts. My role was using MongoDB, Python and PostgreSQL to create CRUD processes and authentication on the back end. I also worked on the JavaScript in React to improve the functionality on the front end.</p>
+        </div>
+        </div>
+      </div>
+
+      {/* It's a PCOS party! */}
+      <div className="container-p">
+      <hr/>
+        <div className="image">
+        <img className="project-image" src={Project5} alt="pcos_desktop"></img>
+        </div>
+        <div className="container-info">
+        <div className="project-info">
+          <h1 className="title-small">It's a PCOS party!</h1>
+          <ul className="icons">
+          <li className="cell"> <i className="fab fa-js-square"></i></li>
+          <li className="cell"> <i className="fab fa-html5"></i></li>
+          <li className="cell"><i className="fab fa-css3-alt"></i></li>
+          <li className="cell"><i class="fab fa-sass"></i></li>
+          <li className="cell"> <i className="fab fa-react"></i></li>
+          <li className="cell"><i class="fab fa-mailchimp"></i></li>
+          </ul>
+          <a href="https://fletch-7.github.io/pcos-launch/" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+        </div>
+        <div className="project-description">
+          <p>This was my first freelance project after leaving General Assembly during the Covid-19 Lockdown. I was approached by a friend that wanted a simple front-end website that would allow her to demonstrate her business and story. The client wanted to keep the website as simple as possible as they wanted it to supplement their Instagram account.  Her brief also included the necessity of having a website that was mobile responsive, as 90% of her clients will view this from their mobile.</p>
+          <br/>
+          <p>After remotely meeting  on video calls to discuss initial plans , we ended up with a simple , clean, to-the-point website that met the clients expectations. After discussing whether to add a back-end to the website to enable comments and forms, I ended up suggesting to use  Mail-chimp as this allowed the client to have control over making forms and marketing materials in the future  without any assistance. </p>
+        </div>
+        </div>
+      </div>
+
+      {/* PIXL8 */}
+      <div className="container-p">
+      <hr/>
+        <div className="image">
+        <img className="project-image" src={Project6} alt="pcos_desktop"></img>
+        </div>
+        <div className="container-info">
+        <div className="project-info">
+          <h1 className="title-small">PIXL8</h1>
+          <ul className="icons">
+          <li className="cell"> <i className="fab fa-js-square"></i></li>
+          <li className="cell"> <i className="fab fa-html5"></i></li>
+          <li className="cell"><i className="fab fa-css3-alt"></i></li>
+          <li className="cell"><i class="fab fa-sass"></i></li>
+          <li className="cell"> <i className="fab fa-react"></i></li>
+          <li className="cell"><i class="fab fa-mailchimp"></i></li>
+          </ul>
+          <a href="#" className="button" disabled alt="link"><i className="fas fa-link"></i><span>Coming Soon!</span></a>
+        </div>
+        <div className="project-description">
+          <p>This is my second freelance  during the Covid-19 Lockdown. I was approached by my brother that wanted a simple front-end website that would allow him to have an online prescence, as well as, offer a way to showcase his production business and past projects to potential clients.</p>
+          <br/>
+          <p>Currently, this project is under construction and will be uploaded as soon as the client is satisfied!</p>
         </div>
         </div>
       </div>
