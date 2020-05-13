@@ -25,8 +25,8 @@ class Projects extends React.Component{
           <li className="cell"> <i className="fab fa-html5 fa-2x"></i></li>
           <li className="cell"><i className="fab fa-css3-alt fa-2x"></i></li>
           </ul>
-          <a href="http://bit.ly/rf-project-1" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="https://github.com/Fletch-7/SEI-Project-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="http://bit.ly/rf-project-1" className="button is-hidden-mobile" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+          <a href="https://github.com/Fletch-7/SEI-Project-1" className="button is-hidden-mobile" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>My first project after three weeks to make a game over a two-week period, using HTML, CSS and JavaScript fundamentals. I decided to make snake I, as it was something I always used to play as a kid. Over the two weeks, the first week was spent planning how the game would work, whilst the second week was left to implementing pseudocode to actual code. The project included a variety of JavaScript functions that enabled smooth gameplay and transitioning throughout.</p>
@@ -48,8 +48,8 @@ class Projects extends React.Component{
           <li className="cell"><i className="fab fa-css3-alt fa-2x"></i></li>
           <li className="cell"> <i className="fab fa-react fa-2x"></i></li>
           </ul>
-          <a href="http://bit.ly/heroku-hero" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="https://github.com/Fletch-7/SEI-PROJECT-2" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="http://bit.ly/heroku-hero" className="button is-hidden-mobile" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+          <a href="https://github.com/Fletch-7/SEI-PROJECT-2" className="button is-hidden-mobile" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>The second project was to pull a third-party API database and create a front end to display it using React.js. My teammate and I opted for a superhero API, where we created a game similar to Top-Trumps. We used a variety of JavaScript functions to make the website interactive for the user. Designwise, we opted to use Bulma in conjunction with a variety of graphics to improve the aesthetic of the website.</p>
@@ -75,8 +75,8 @@ class Projects extends React.Component{
           <li className="cell"><i className="devicon-express-original"></i></li>
           <li className="cell"><i className="devicon-mongodb-plain"></i></li>
           </ul>
-          <a href="http://bit.ly/rf-project-3" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="https://github.com/Fletch-7/sei-group-project " className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="http://bit.ly/rf-project-3" className="button is-hidden-mobile" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+          <a href="https://github.com/Fletch-7/sei-group-project " className="button is-hidden-mobile" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p> My third project was with a team of four to create a fully functional front and back-end website using Express, React.js and MongoDB. Our team created a geo-caching game where users could make accounts and take part in treasure hunts based around London and comment, create, and edit trails in their accounts as well as comment on other users. My role was to work on the front end using React.js and applying the necessary API’s.</p>
@@ -102,8 +102,8 @@ class Projects extends React.Component{
           <li className="cell"><i className="devicon-python-plain"></i></li>
           <li className="cell"> <i className="django"><img src="https://d7umqicpi7263.cloudfront.net/img/product/003313e7-e97b-4a5d-860a-f1a435a41174/b4b17d38-d65c-4b5f-9241-94104beb9a88.png" alt="Django"/></i></li>
           </ul>
-          <a href="http://bit.ly/heroku-pensive " className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
-          <a href="https://github.com/Fletch-7/sei-final-project/tree/Fletch-7-patch-1" className="button" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
+          <a href="http://bit.ly/heroku-pensive " className="button is-hidden-mobile" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+          <a href="https://github.com/Fletch-7/sei-final-project/tree/Fletch-7-patch-1" className="button is-hidden-mobile" alt="link"><i className="fab fa-github-square"></i><span> GitHub</span></a>
         </div>
         <div className="project-description">
           <p>My fourth and final project involved creating a blog platform using a mixture of Python, PostgreSQL and Django. The platform includes main features such as profiles, trending topics and articles created by software developers and coding enthusiasts. My role was using MongoDB, Python and PostgreSQL to create CRUD processes and authentication on the back end. I also worked on the JavaScript in React to improve the functionality on the front end.</p>
@@ -128,7 +128,7 @@ class Projects extends React.Component{
           <li className="cell"> <i className="fab fa-react"></i></li>
           <li className="cell"><i class="fab fa-mailchimp"></i></li>
           </ul>
-          <a href="https://fletch-7.github.io/pcos-launch/" className="button" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
+          <a href="https://fletch-7.github.io/pcos-launch/" className="button is-hidden-mobile" alt="link"><i className="fas fa-link"></i><span>View Project</span></a>
         </div>
         <div className="project-description">
           <p>This was my first freelance project after leaving General Assembly during the Covid-19 Lockdown. I was approached by a friend that required a simple front-end website that would allow her to demonstrate her business and story. The client wanted to keep the website as simple as possible as her wanted it to supplement their Instagram account.  Her brief also included the necessity of having a website that was mobile responsive, as 90% of her clients will view this from their mobile.</p>
@@ -155,7 +155,7 @@ class Projects extends React.Component{
           <li className="cell"> <i className="fab fa-react"></i></li>
           <li className="cell"><i class="fab fa-mailchimp"></i></li>
           </ul>
-          <a href="#" className="button" disabled alt="link"><i className="fas fa-link"></i><span>Coming Soon!</span></a>
+          <a href="#" className="button is-hidden-mobile" disabled alt="link"><i className="fas fa-link"></i><span>Coming Soon!</span></a>
         </div>
         <div className="project-description">
           <p>This is my second freelance  during the Covid-19 Lockdown. I was approached by my brother who needs a simple front-end website that would allow him to have an online prescence, as well as, offer a way to showcase his production business and past projects to potential clients.</p>
